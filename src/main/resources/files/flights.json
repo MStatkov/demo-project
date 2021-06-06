@@ -1,0 +1,438 @@
+[
+  {
+    "id": 1,
+    "airplaneTakingOff": "2021-06-03T01:24:50",
+    "airplaneLanding": "2021-06-03T03:48:25",
+    "airplaneTransponderNumber": "hkkkh",
+    "flightRouteId": 21,
+    "airOperatorName": "Bulgaria Air",
+    "pilotsId": [
+      1,
+      2
+    ],
+    "stewardsId": [
+      1,
+      2,
+      10
+    ],
+    "passengersId": [
+      1,
+      11,
+      21,
+      31
+    ]
+  },
+  {
+    "id": 2,
+    "airplaneTakingOff": "2021-06-03T03:15:03",
+    "airplaneLanding": "2021-06-03T04:44:35",
+    "airplaneTransponderNumber": "897hh",
+    "flightRouteId": 12,
+    "airOperatorName": "Lufthansa",
+    "pilotsId": [
+      6,
+      16
+    ],
+    "stewardsId": [
+      3,
+      9,
+      12
+    ],
+    "passengersId": [
+      3,
+      13,
+      23
+    ]
+  },
+  {
+    "id": 3,
+    "airplaneTakingOff": "2021-06-03T02:09:05",
+    "airplaneLanding": "2021-06-03T03:55:00",
+    "airplaneTransponderNumber": "4ht6j",
+    "flightRouteId": 16,
+    "airOperatorName": "Qatar Airways",
+    "pilotsId": [
+      13,
+      14
+    ],
+    "stewardsId": [
+      8,
+      29,
+      30
+    ],
+    "passengersId": [
+      8,
+      18,
+      28,
+      38
+    ]
+  },
+  {
+    "id": 4,
+    "airplaneTakingOff": "2021-06-03T09:51:14",
+    "airplaneLanding": "2021-06-03T11:54:57",
+    "airplaneTransponderNumber": "kskyy",
+    "flightRouteId": 14,
+    "airOperatorName": "Ryanair",
+    "pilotsId": [
+      3,
+      8
+    ],
+    "stewardsId": [
+      5,
+      17,
+      19
+    ],
+    "passengersId": [
+      2,
+      12,
+      22,
+      32
+    ]
+  },
+  {
+    "id": 5,
+    "airplaneTakingOff": "2021-06-04T15:15:41",
+    "airplaneLanding": "2021-06-04T17:03:04",
+    "airplaneTransponderNumber": "45ffg",
+    "flightRouteId": 19,
+    "airOperatorName": "Turkish Airlines",
+    "pilotsId": [
+      4,
+      5
+    ],
+    "stewardsId": [
+      4,
+      6,
+      13
+    ],
+    "passengersId": [
+      5,
+      15,
+      25,
+      35
+    ]
+  },
+  {
+    "id": 6,
+    "airplaneTakingOff": "2021-06-04T21:13:19",
+    "airplaneLanding": "2021-06-04T23:19:09",
+    "airplaneTransponderNumber": "34sfj",
+    "flightRouteId": 6,
+    "airOperatorName": "WizzAir",
+    "pilotsId": [
+      7,
+      9
+    ],
+    "stewardsId": [
+      7,
+      11,
+      24
+    ],
+    "passengersId": [
+      7,
+      17,
+      27,
+      37
+    ]
+  },
+  {
+    "id": 7,
+    "airplaneTakingOff": "2021-06-05T23:55:18",
+    "airplaneLanding": "2021-06-06T01:30:47",
+    "airplaneTransponderNumber": "3fefh",
+    "flightRouteId": 3,
+    "airOperatorName": "Ryanair",
+    "pilotsId": [
+      8,
+      10
+    ],
+    "stewardsId": [
+      19,
+      21,
+      23
+    ],
+    "passengersId": [
+      4,
+      14,
+      24,
+      34
+    ]
+  },
+  {
+    "id": 8,
+    "airplaneTakingOff": "2021-06-06T12:47:18",
+    "airplaneLanding": "2021-06-06T14:17:05",
+    "airplaneTransponderNumber": "sggdt",
+    "flightRouteId": 11,
+    "airOperatorName": "Turkish Airlines",
+    "pilotsId": [
+      5,
+      18
+    ],
+    "stewardsId": [
+      6,
+      13,
+      18
+    ],
+    "passengersId": [
+      10,
+      20,
+      30,
+      40
+    ]
+  },
+  {
+    "id": 9,
+    "airplaneTakingOff": "2021-06-07T17:17:28",
+    "airplaneLanding": "2021-06-07T19:16:34",
+    "airplaneTransponderNumber": "grrs4",
+    "flightRouteId": 13,
+    "airOperatorName": "WizzAir",
+    "pilotsId": [
+      11,
+      15
+    ],
+    "stewardsId": [
+      11,
+      24,
+      25
+    ],
+    "passengersId": [
+      6,
+      16,
+      26,
+      36
+    ]
+  },
+  {
+    "id": 10,
+    "airplaneTakingOff": "2021-06-08T16:09:47",
+    "airplaneLanding": null,
+    "airplaneTransponderNumber": "23frg",
+    "flightRouteId": 12,
+    "airOperatorName": "Bulgaria Air",
+    "pilotsId": [
+      1,
+      2
+    ],
+    "stewardsId": [
+      14,
+      15,
+      16
+    ],
+    "passengersId": [
+      1,
+      11,
+      7,
+      17
+    ]
+  },
+  {
+    "id": 11,
+    "airplaneTakingOff": "2021-06-08T16:15:32",
+    "airplaneLanding": null,
+    "airplaneTransponderNumber": "3g7nd",
+    "flightRouteId": 22,
+    "airOperatorName": "Bulgaria Air",
+    "pilotsId": [
+      12,
+      17
+    ],
+    "stewardsId": [
+      22,
+      26,
+      27
+    ],
+    "passengersId": [
+      21,
+      31,
+      27,
+      37
+    ]
+  },
+  {
+    "id": 12,
+    "airplaneTakingOff": "2021-06-08T16:44:14",
+    "airplaneLanding": null,
+    "airplaneTransponderNumber": "cdfuk",
+    "flightRouteId": 9,
+    "airOperatorName": "Lufthansa",
+    "pilotsId": [
+      16,
+      19
+    ],
+    "stewardsId": [
+      12,
+      20,
+      28
+    ],
+    "passengersId": [
+      6,
+      16,
+      23,
+      33
+    ]
+  },
+  {
+    "id": 13,
+    "airplaneTakingOff": "2021-06-08T17:04:06",
+    "airplaneLanding": null,
+    "airplaneTransponderNumber": "bcert",
+    "flightRouteId": 17,
+    "airOperatorName": "Ryanair",
+    "pilotsId": [
+      8,
+      10
+    ],
+    "stewardsId": [
+      19,
+      21,
+      23
+    ],
+    "passengersId": [
+      26,
+      36,
+      3,
+      13
+    ]
+  },
+  {
+    "id": 14,
+    "airplaneTakingOff": "2021-06-08T17:27:25",
+    "airplaneLanding": null,
+    "airplaneTransponderNumber": "gdrgr",
+    "flightRouteId": 10,
+    "airOperatorName": "Turkish Airlines",
+    "pilotsId": [
+      5,
+      18
+    ],
+    "stewardsId": [
+      6,
+      13,
+      18
+    ],
+    "passengersId": [
+      9,
+      19,
+      29,
+      39
+    ]
+  },
+  {
+    "id": 15,
+    "airplaneTakingOff": "2021-06-08T17:45:13",
+    "airplaneLanding": null,
+    "airplaneTransponderNumber": "78fgd",
+    "flightRouteId": 20,
+    "airOperatorName": "WizzAir",
+    "pilotsId": [
+      15,
+      20
+    ],
+    "stewardsId": [
+      11,
+      24,
+      25
+    ],
+    "passengersId": [
+      2,
+      12,
+      24,
+      34
+    ]
+  },
+  {
+    "id": 16,
+    "airplaneTakingOff": null,
+    "airplaneLanding": null,
+    "airplaneTransponderNumber": "hkkkh",
+    "flightRouteId": 3,
+    "airOperatorName": "Bulgaria Air",
+    "pilotsId": [
+      1,
+      12
+    ],
+    "stewardsId": [
+      10,
+      15,
+      16
+    ],
+    "passengersId": [
+      22,
+      32,
+      1,
+      10
+    ]
+  },
+  {
+    "id": 17,
+    "airplaneTakingOff": null,
+    "airplaneLanding": null,
+    "airplaneTransponderNumber": "asdsd",
+    "flightRouteId": 7,
+    "airOperatorName": "Lufthansa",
+    "pilotsId": [
+      6,
+      19
+    ],
+    "stewardsId": [
+      3,
+      9,
+      28
+    ],
+    "passengersId": [
+      30,
+      40,
+      5,
+      15
+    ]
+  },
+  {
+    "id": 18,
+    "airplaneTakingOff": null,
+    "airplaneLanding": null,
+    "airplaneTransponderNumber": "3g7nd",
+    "flightRouteId": 18,
+    "airOperatorName": "Bulgaria Air",
+    "pilotsId": [
+      2,
+      17
+    ],
+    "stewardsId": [
+      14,
+      22,
+      26
+    ],
+    "passengersId": [
+      4,
+      14,
+      31,
+      20
+    ]
+  },
+  {
+    "id": 19,
+    "airplaneTakingOff": null,
+    "airplaneLanding": null,
+    "airplaneTransponderNumber": "4ffdg",
+    "flightRouteId": 1,
+    "airOperatorName": "WizzAir",
+    "pilotsId": [
+      11,
+      20
+    ],
+    "stewardsId": [
+      7,
+      24,
+      25
+    ],
+    "passengersId": [
+      25,
+      35,
+      8,
+      18
+    ]
+  }
+]

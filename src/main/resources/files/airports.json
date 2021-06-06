@@ -1,0 +1,58 @@
+[
+  {
+    "airportAbbreviationCode": "IRM",
+    "cityId": 1
+  },
+  {
+    "airportAbbreviationCode": "FPS",
+    "cityId": 2
+  },
+  {
+    "airportAbbreviationCode": "RMW",
+    "cityId": 3
+  },
+  {
+    "airportAbbreviationCode": "BRB",
+    "cityId": 4
+  },
+  {
+    "airportAbbreviationCode": "BSF",
+    "cityId": 5
+  },
+  {
+    "airportAbbreviationCode": "BVN",
+    "cityId": 6
+  },
+  {
+    "airportAbbreviationCode": "SBG",
+    "cityId": 7
+  },
+  {
+    "airportAbbreviationCode": "IMN",
+    "cityId": 9
+  },
+  {
+    "airportAbbreviationCode": "FSG",
+    "cityId": 11
+  },
+  {
+    "airportAbbreviationCode": "RSP",
+    "cityId": 12
+  },
+  {
+    "airportAbbreviationCode": "BPV",
+    "cityId": 13
+  },
+  {
+    "airportAbbreviationCode": "FML",
+    "cityId": 15
+  },
+  {
+    "airportAbbreviationCode": "SNS",
+    "cityId": 17
+  },
+  {
+    "airportAbbreviationCode": "RVK",
+    "cityId": 20
+  }
+]

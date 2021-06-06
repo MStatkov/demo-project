@@ -1,0 +1,142 @@
+[
+  {
+    "transponderNumber": "fdgfg",
+    "airplaneModel": "737",
+    "airplaneCapacity": 300,
+    "airplaneManufacturerName": "Boeing",
+    "airplaneOperatorName": "Turkish Airlines"
+  },
+  {
+    "transponderNumber": "asdsd",
+    "airplaneModel": "225",
+    "airplaneCapacity": 225,
+    "airplaneManufacturerName": "Antonov",
+    "airplaneOperatorName": "Lufthansa"
+  },
+  {
+    "transponderNumber": "hkkkh",
+    "airplaneModel": "A310",
+    "airplaneCapacity": 310,
+    "airplaneManufacturerName": "Airbus",
+    "airplaneOperatorName": "Bulgaria Air"
+  },
+  {
+    "transponderNumber": "4ffdg",
+    "airplaneModel": "757",
+    "airplaneCapacity": 325,
+    "airplaneManufacturerName": "Boeing",
+    "airplaneOperatorName": "WizzAir"
+  },
+  {
+    "transponderNumber": "wxeex",
+    "airplaneModel": "737",
+    "airplaneCapacity": 300,
+    "airplaneManufacturerName": "Boeing",
+    "airplaneOperatorName": "Ryanair"
+  },
+  {
+    "transponderNumber": "23frg",
+    "airplaneModel": "A310",
+    "airplaneCapacity": 310,
+    "airplaneManufacturerName": "Airbus",
+    "airplaneOperatorName": "Bulgaria Air"
+  },
+  {
+    "transponderNumber": "897hh",
+    "airplaneModel": "747",
+    "airplaneCapacity": 320,
+    "airplaneManufacturerName": "Boeing",
+    "airplaneOperatorName": "Lufthansa"
+  },
+  {
+    "transponderNumber": "45ffg",
+    "airplaneModel": "777",
+    "airplaneCapacity": 350,
+    "airplaneManufacturerName": "Boeing",
+    "airplaneOperatorName": "Turkish Airlines"
+  },
+  {
+    "transponderNumber": "34sfj",
+    "airplaneModel": "777",
+    "airplaneCapacity": 350,
+    "airplaneManufacturerName": "Boeing",
+    "airplaneOperatorName": "WizzAir"
+  },
+  {
+    "transponderNumber": "7gr33",
+    "airplaneModel": "747",
+    "airplaneCapacity": 320,
+    "airplaneManufacturerName": "Boeing",
+    "airplaneOperatorName": "Qatar Airways"
+  },
+  {
+    "transponderNumber": "bcert",
+    "airplaneModel": "A330",
+    "airplaneCapacity": 330,
+    "airplaneManufacturerName": "Airbus",
+    "airplaneOperatorName": "Ryanair"
+  },
+  {
+    "transponderNumber": "gdrgr",
+    "airplaneModel": "125",
+    "airplaneCapacity": 150,
+    "airplaneManufacturerName": "Antonov",
+    "airplaneOperatorName": "Turkish Airlines"
+  },
+  {
+    "transponderNumber": "kskyy",
+    "airplaneModel": "737",
+    "airplaneCapacity": 300,
+    "airplaneManufacturerName": "Boeing",
+    "airplaneOperatorName": "Ryanair"
+  },
+  {
+    "transponderNumber": "3g7nd",
+    "airplaneModel": "A310",
+    "airplaneCapacity": 310,
+    "airplaneManufacturerName": "Airbus",
+    "airplaneOperatorName": "Bulgaria Air"
+  },
+  {
+    "transponderNumber": "cdfuk",
+    "airplaneModel": "A320",
+    "airplaneCapacity": 320,
+    "airplaneManufacturerName": "Airbus",
+    "airplaneOperatorName": "Lufthansa"
+  },
+  {
+    "transponderNumber": "sggdt",
+    "airplaneModel": "125",
+    "airplaneCapacity": 150,
+    "airplaneManufacturerName": "Antonov",
+    "airplaneOperatorName": "Turkish Airlines"
+  },
+  {
+    "transponderNumber": "78fgd",
+    "airplaneModel": "A320",
+    "airplaneCapacity": 320,
+    "airplaneManufacturerName": "Airbus",
+    "airplaneOperatorName": "WizzAir"
+  },
+  {
+    "transponderNumber": "3fefh",
+    "airplaneModel": "737",
+    "airplaneCapacity": 300,
+    "airplaneManufacturerName": "Boeing",
+    "airplaneOperatorName": "Ryanair"
+  },
+  {
+    "transponderNumber": "4ht6j",
+    "airplaneModel": "A310",
+    "airplaneCapacity": 310,
+    "airplaneManufacturerName": "Airbus",
+    "airplaneOperatorName": "Qatar Airways"
+  },
+  {
+    "transponderNumber": "grrs4",
+    "airplaneModel": "747",
+    "airplaneCapacity": 320,
+    "airplaneManufacturerName": "Boeing",
+    "airplaneOperatorName": "WizzAir"
+  }
+]

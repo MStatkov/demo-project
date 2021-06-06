@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "airportFromAirportAbbreviationCode": "BSF",
+    "airportToAirportAbbreviationCode": "RMW"
+  },
+  {
+    "id": 2,
+    "airportFromAirportAbbreviationCode": "RSP",
+    "airportToAirportAbbreviationCode": "RVK"
+  },
+  {
+    "id": 3,
+    "airportFromAirportAbbreviationCode": "RMW",
+    "airportToAirportAbbreviationCode": "BSF"
+  },
+  {
+    "id": 4,
+    "airportFromAirportAbbreviationCode": "RVK",
+    "airportToAirportAbbreviationCode": "SNS"
+  },
+  {
+    "id": 5,
+    "airportFromAirportAbbreviationCode": "FSG",
+    "airportToAirportAbbreviationCode": "IMN"
+  },
+  {
+    "id": 6,
+    "airportFromAirportAbbreviationCode": "SBG",
+    "airportToAirportAbbreviationCode": "IMN"
+  },
+  {
+    "id": 7,
+    "airportFromAirportAbbreviationCode": "BSF",
+    "airportToAirportAbbreviationCode": "FPS"
+  },
+  {
+    "id": 8,
+    "airportFromAirportAbbreviationCode": "BPV",
+    "airportToAirportAbbreviationCode": "RSP"
+  },
+  {
+    "id": 9,
+    "airportFromAirportAbbreviationCode": "SNS",
+    "airportToAirportAbbreviationCode": "BRB"
+  },
+  {
+    "id": 10,
+    "airportFromAirportAbbreviationCode": "BRB",
+    "airportToAirportAbbreviationCode": "BPV"
+  },
+  {
+    "id": 11,
+    "airportFromAirportAbbreviationCode": "RMW",
+    "airportToAirportAbbreviationCode": "FSG"
+  },
+  {
+    "id": 12,
+    "airportFromAirportAbbreviationCode": "IMN",
+    "airportToAirportAbbreviationCode": "BSF"
+  },
+  {
+    "id": 13,
+    "airportFromAirportAbbreviationCode": "BVN",
+    "airportToAirportAbbreviationCode": "FML"
+  },
+  {
+    "id": 14,
+    "airportFromAirportAbbreviationCode": "FPS",
+    "airportToAirportAbbreviationCode": "SBG"
+  },
+  {
+    "id": 15,
+    "airportFromAirportAbbreviationCode": "BPV",
+    "airportToAirportAbbreviationCode": "RMW"
+  },
+  {
+    "id": 16,
+    "airportFromAirportAbbreviationCode": "FPS",
+    "airportToAirportAbbreviationCode": "BPV"
+  },
+  {
+    "id": 17,
+    "airportFromAirportAbbreviationCode": "IMN",
+    "airportToAirportAbbreviationCode": "BVN"
+  },
+  {
+    "id": 18,
+    "airportFromAirportAbbreviationCode": "RSP",
+    "airportToAirportAbbreviationCode": "BSF"
+  },
+  {
+    "id": 19,
+    "airportFromAirportAbbreviationCode": "FSG",
+    "airportToAirportAbbreviationCode": "FML"
+  },
+  {
+    "id": 20,
+    "airportFromAirportAbbreviationCode": "SBG",
+    "airportToAirportAbbreviationCode": "RVK"
+  },
+  {
+    "id": 21,
+    "airportFromAirportAbbreviationCode": "BSF",
+    "airportToAirportAbbreviationCode": "BRB"
+  },
+  {
+    "id": 22,
+    "airportFromAirportAbbreviationCode": "FPS",
+    "airportToAirportAbbreviationCode": "BVN"
+  }
+]

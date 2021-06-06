@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Rome",
+    "countryName": "Italy"
+  },
+  {
+    "id": 2,
+    "name": "Paris",
+    "countryName": "France"
+  },
+  {
+    "id": 3,
+    "name": "Moscow",
+    "countryName": "Russia"
+  },
+  {
+    "id": 4,
+    "name": "Brussel",
+    "countryName": "Belgium"
+  },
+  {
+    "id": 5,
+    "name": "Sofia",
+    "countryName": "Bulgaria"
+  },
+  {
+    "id": 6,
+    "name": "Varna",
+    "countryName": "Bulgaria"
+  },
+  {
+    "id": 7,
+    "name": "Belgrade",
+    "countryName": "Serbia"
+  },
+  {
+    "id": 8,
+    "name": "Nish",
+    "countryName": "Serbia"
+  },
+  {
+    "id": 9,
+    "name": "Milan",
+    "countryName": "Italy"
+  },
+  {
+    "id": 10,
+    "name": "Lille",
+    "countryName": "France"
+  },
+  {
+    "id": 11,
+    "name": "Strasbourg",
+    "countryName": "France"
+  },
+  {
+    "id": 12,
+    "name": "Saint Petersburg",
+    "countryName": "Russia"
+  },
+  {
+    "id": 13,
+    "name": "Plovdiv",
+    "countryName": "Bulgaria"
+  },
+  {
+    "id": 14,
+    "name": "Florence",
+    "countryName": "Italy"
+  },
+  {
+    "id": 15,
+    "name": "Marseille",
+    "countryName": "France"
+  },
+  {
+    "id": 16,
+    "name": "Naples",
+    "countryName": "Italy"
+  },
+  {
+    "id": 17,
+    "name": "Novi Sad",
+    "countryName": "Serbia"
+  },
+  {
+    "id": 18,
+    "name": "Russe",
+    "countryName": "Bulgaria"
+  },
+  {
+    "id": 19,
+    "name": "Volgograd",
+    "countryName": "Russia"
+  },
+  {
+    "id": 20,
+    "name": "Vladivostok",
+    "countryName": "Russia"
+  }
+]
